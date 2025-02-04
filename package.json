@@ -8,7 +8,7 @@
     "run-all": "pnpm airports && pnpm airlines && pnpm timezones"
   },
   "license": "MIT",
-  "packageManager": "pnpm@9.15.2+sha512.93e57b0126f0df74ce6bff29680394c0ba54ec47246b9cf321f0121d8d9bb03f750a705f24edc3c1180853afd7c2c3b94196d0a3d53d3e069d9e2793ef11f321",
+  "packageManager": "pnpm@10.2.0+sha512.0d27364e0139c6aadeed65ada153135e0ca96c8da42123bd50047f961339dc7a758fc2e944b428f52be570d1bd3372455c1c65fa2e7aa0bfbf931190f9552001",
   "dependencies": {
     "axios": "^1.7.9",
     "csvtojson": "^2.0.10"
