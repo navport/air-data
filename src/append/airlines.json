@@ -12,5 +12,12 @@
     "name": "Key Lime Air",
     "alias": "",
     "by": "iata"
+  },
+  {
+    "iata_code": "F9",
+    "icao_code": "FFT",
+    "name": "Frontier Airlines",
+    "alias": "",
+    "by": "iata"
   }
 ]
