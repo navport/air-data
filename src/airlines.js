@@ -38,6 +38,7 @@ axios
             append[i].by = undefined;
             jsonArrayObj[indexReplace] = append[i];
           } else {
+            append[i].by = undefined;
             jsonArrayObj.push(append[i]);
           }
         }
