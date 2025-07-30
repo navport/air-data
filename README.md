@@ -4,7 +4,7 @@ Collection of aviation data including airline/airport IATA/ICAO conversions, tim
 
 ## Data Sources
 
-- `airports.json` - [ip2location/ip2location-iata-icao](https://github.com/ip2location/ip2location-iata-icao), under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+- `airports.json` - [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data), under the [The Unlicense](https://unlicense.org/).
 - `airlines.json` - [benct/iata-utils](https://github.com/benct/iata-utils), under the [MIT License](https://opensource.org/licenses/MIT).
 - `timezones.json` - [hroptatyr/dateutils](https://github.com/hroptatyr/dateutils/tree/tzmaps)
 
