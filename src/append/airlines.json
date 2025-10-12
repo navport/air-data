@@ -19,5 +19,12 @@
     "name": "Frontier Airlines",
     "alias": "",
     "by": "iata"
+  },
+  {
+    "iata_code": "AZ",
+    "icao_code": "ITY",
+    "name": "ITA Airways",
+    "alias": "",
+    "by": "iata"
   }
 ]
