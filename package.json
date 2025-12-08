@@ -9,9 +9,9 @@
     "upgrade-deps": "pnpm upgrade --latest"
   },
   "license": "MIT",
-  "packageManager": "pnpm@10.14.0-0+sha512.2cd47a0cbf5f1d1de7693a88307a0ede5be94e0d3b34853d800ee775efbea0650cb562b77605ec80bc8d925f5cd27c4dfe8bb04d3a0b76090784c664450d32d6",
+  "packageManager": "pnpm@10.25.0+sha512.5e82639027af37cf832061bcc6d639c219634488e0f2baebe785028a793de7b525ffcd3f7ff574f5e9860654e098fe852ba8ac5dd5cefe1767d23a020a92f501",
   "dependencies": {
-    "axios": "^1.12.2",
-    "csvtojson": "^2.0.10"
+    "axios": "^1.13.2",
+    "csvtojson": "^2.0.14"
   }
 }
