@@ -33,6 +33,6 @@ axios
 
     fs.writeFileSync(
       __dirname + "/../data/timezones.json",
-      JSON.stringify(timezones)
+      JSON.stringify(convertedAirports)
     );
   });
