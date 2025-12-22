@@ -15017,8 +15017,8 @@
     "iata": "OPW",
     "icao": "FYOP",
     "airport": "Opuwa Airport",
-    "latitude": "-18.061424",
-    "longitude": "13.85047"
+    "latitude": "-18.056022",
+    "longitude": "13.852061"
   },
   {
     "country_code": "NA",
@@ -15035,7 +15035,7 @@
     "iata": "OTJ",
     "icao": "FYOW",
     "airport": "Otjiwarongo Airport",
-    "latitude": "-20.4347",
+    "latitude": "-20.433012",
     "longitude": "16.660801"
   },
   {
@@ -15044,8 +15044,8 @@
     "iata": "NDU",
     "icao": "FYRU",
     "airport": "Rundu Airport",
-    "latitude": "-17.956499099731",
-    "longitude": "19.719400405884"
+    "latitude": "-17.956499",
+    "longitude": "19.7194"
   },
   {
     "country_code": "NA",
@@ -15080,8 +15080,8 @@
     "iata": "TCY",
     "icao": "FYTE",
     "airport": "Terrace Bay Airport",
-    "latitude": "-19.9713",
-    "longitude": "13.0249"
+    "latitude": "-19.972112",
+    "longitude": "13.025486"
   },
   {
     "country_code": "NA",
@@ -15089,8 +15089,8 @@
     "iata": "TSB",
     "icao": "FYTM",
     "airport": "Tsumeb Airport",
-    "latitude": "-19.26189994812",
-    "longitude": "17.732500076294"
+    "latitude": "-19.262079",
+    "longitude": "17.732509"
   },
   {
     "country_code": "NA",
@@ -15107,8 +15107,8 @@
     "iata": "ERS",
     "icao": "FYWE",
     "airport": "Eros Airport",
-    "latitude": "-22.612199783325195",
-    "longitude": "17.080400466918945"
+    "latitude": "-22.60492",
+    "longitude": "17.079002"
   },
   {
     "country_code": "NA",
@@ -18610,6 +18610,15 @@
     "airport": "Jagdalpur Airport",
     "latitude": "19.074301",
     "longitude": "82.036797"
+  },
+  {
+    "country_code": "IT",
+    "region_name": "Tremiti Islands",
+    "iata": "TQR",
+    "icao": "LINI",
+    "airport": "San Domino Island Heliport",
+    "latitude": "42.117775",
+    "longitude": "15.490655"
   },
   {
     "country_code": "AO",
@@ -25393,7 +25402,7 @@
     "region_name": "Lakeland",
     "iata": "LAL",
     "icao": "KLAL",
-    "airport": "Lakeland Linder International Airport",
+    "airport": "Lakeland Linder International/Regional Airport",
     "latitude": "27.987656",
     "longitude": "-82.018776"
   },
@@ -31145,8 +31154,8 @@
     "iata": "TNT",
     "icao": "KTNT",
     "airport": "Dade Collier Training and Transition Airport",
-    "latitude": "25.861799240112",
-    "longitude": "-80.897003173828"
+    "latitude": "25.861788",
+    "longitude": "-80.89701"
   },
   {
     "country_code": "US",
@@ -34439,8 +34448,8 @@
     "iata": "BZO",
     "icao": "LIPB",
     "airport": "Bolzano Airport",
-    "latitude": "46.460201",
-    "longitude": "11.3264"
+    "latitude": "46.459245",
+    "longitude": "11.326125"
   },
   {
     "country_code": "IT",
@@ -38143,15 +38152,6 @@
   },
   {
     "country_code": "CU",
-    "region_name": "Pinar del Rio",
-    "iata": "LCL",
-    "icao": "MULM",
-    "airport": "La Coloma Airport",
-    "latitude": "22.3361",
-    "longitude": "-83.641899"
-  },
-  {
-    "country_code": "CU",
     "region_name": "Moa",
     "iata": "MOA",
     "icao": "MUMO",
@@ -40624,6 +40624,15 @@
     "airport": "King Fahd International Airport",
     "latitude": "26.471201",
     "longitude": "49.797901"
+  },
+  {
+    "country_code": "SA",
+    "region_name": "Dawadmi",
+    "iata": "DWD",
+    "icao": "OEDM",
+    "airport": "King Salman Abdulaziz Airport",
+    "latitude": "24.4499",
+    "longitude": "44.121201"
   },
   {
     "country_code": "SA",
@@ -49234,9 +49243,9 @@
     "region_name": "Concepción",
     "iata": "CIO",
     "icao": "SGCO",
-    "airport": "Aeropuerto Nacional Tte. Cnel. Carmelo Peralta",
-    "latitude": "-23.440334",
-    "longitude": "-57.429206"
+    "airport": "Lieutenant Colonel Carmelo Peralta National Airport",
+    "latitude": "-23.441609",
+    "longitude": "-57.427039"
   },
   {
     "country_code": "PY",
@@ -66209,8 +66218,8 @@
     "iata": "MDG",
     "icao": "ZYMD",
     "airport": "Mudanjiang Hailang International Airport",
-    "latitude": "44.5241012573",
-    "longitude": "129.569000244"
+    "latitude": "44.525172",
+    "longitude": "129.568634"
   },
   {
     "country_code": "CN",
