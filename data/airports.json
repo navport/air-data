@@ -52690,7 +52690,7 @@
     "region_name": "Coari",
     "iata": "CIZ",
     "icao": "SWKO",
-    "airport": "Coari Airport",
+    "airport": "Danilson Municipal Airport",
     "latitude": "-4.13406",
     "longitude": "-63.132599"
   },
@@ -56311,6 +56311,15 @@
     "airport": "Kandla Airport",
     "latitude": "23.1127",
     "longitude": "70.100304"
+  },
+  {
+    "country_code": "IN",
+    "region_name": "Khajuraho",
+    "iata": "HJR",
+    "icao": "VAKJ",
+    "airport": "Khajuraho Airport",
+    "latitude": "24.8172",
+    "longitude": "79.918602"
   },
   {
     "country_code": "IN",
