@@ -28695,7 +28695,7 @@
     "country_code": "US",
     "region_name": "West Palm Beach",
     "iata": "PBI",
-    "icao": "KPBI",
+    "icao": "KDJT",
     "airport": "President Donald J. Trump International Airport",
     "latitude": "26.683201",
     "longitude": "-80.095596"
@@ -45985,7 +45985,7 @@
     "region_name": "Seoul",
     "iata": "GMP",
     "icao": "RKSS",
-    "airport": "Gimpo International Airport",
+    "airport": "Seoul Gimpo International Airport",
     "latitude": "37.5583",
     "longitude": "126.791"
   },
@@ -63868,7 +63868,7 @@
     "region_name": "Sydney",
     "iata": "WSI",
     "icao": "YSWS",
-    "airport": "[Duplicate] Western Sydney International Airport",
+    "airport": "Nancy Bird Walton, Western Sydney International Airport",
     "latitude": "-33.88806",
     "longitude": "150.71472"
   },
