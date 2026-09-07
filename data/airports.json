@@ -1,5 +1,32 @@
 [
   {
+    "country_code": "US",
+    "region_name": "Nunapitchuk",
+    "iata": "NUP",
+    "icao": "PPIT",
+    "airport": "Nunapitchuk Airport",
+    "latitude": "60.905591",
+    "longitude": "-162.440454"
+  },
+  {
+    "country_code": "US",
+    "region_name": "Tatitlek",
+    "iata": "TEK",
+    "icao": "PAKA",
+    "airport": "Tatitlek Airport",
+    "latitude": "60.871449",
+    "longitude": "-146.690297"
+  },
+  {
+    "country_code": "US",
+    "region_name": "Chuathbaluk",
+    "iata": "CHU",
+    "icao": "PACH",
+    "airport": "Chuathbaluk Airport",
+    "latitude": "61.579102",
+    "longitude": "-159.216003"
+  },
+  {
     "country_code": "SO",
     "region_name": "Adado",
     "iata": "AAD",
@@ -376,6 +403,15 @@
     "airport": "Gruyere Airport",
     "latitude": "-28.034548",
     "longitude": "123.81506"
+  },
+  {
+    "country_code": "AU",
+    "region_name": "Sydney",
+    "iata": "WSI",
+    "icao": "YSWS",
+    "airport": "Western Sydney International (Nancy-Bird Walton) Airport",
+    "latitude": "-33.883461",
+    "longitude": "150.712981"
   },
   {
     "country_code": "AU",
@@ -3187,6 +3223,15 @@
   },
   {
     "country_code": "BR",
+    "region_name": "Cajazeiras",
+    "iata": "CJZ",
+    "icao": "SJZA",
+    "airport": "Pedro Vieira Moreira Airport",
+    "latitude": "-6.8827",
+    "longitude": "-38.61583"
+  },
+  {
+    "country_code": "BR",
     "region_name": "Vitória da Conquista",
     "iata": "VDC",
     "icao": "SBVC",
@@ -3204,6 +3249,96 @@
     "longitude": "101.15"
   },
   {
+    "country_code": "BZ",
+    "region_name": "Big Creek",
+    "iata": "BGK",
+    "icao": "MZBG",
+    "airport": "Big Creek Airport",
+    "latitude": "16.519369",
+    "longitude": "-88.407913"
+  },
+  {
+    "country_code": "BZ",
+    "region_name": "Caye Caulker",
+    "iata": "CUK",
+    "icao": "MZCK",
+    "airport": "Caye Caulker Airport",
+    "latitude": "17.735015",
+    "longitude": "-88.032862"
+  },
+  {
+    "country_code": "BZ",
+    "region_name": "Caye Chapel",
+    "iata": "CYC",
+    "icao": "MZCP",
+    "airport": "Caye Chapel Airport",
+    "latitude": "17.683792",
+    "longitude": "-88.044985"
+  },
+  {
+    "country_code": "BZ",
+    "region_name": "Corozal",
+    "iata": "CZH",
+    "icao": "MZCZ",
+    "airport": "Corozal Airport",
+    "latitude": "18.3822",
+    "longitude": "-88.411903"
+  },
+  {
+    "country_code": "BZ",
+    "region_name": "Dangriga",
+    "iata": "DGA",
+    "icao": "MZPB",
+    "airport": "Dangriga Airport",
+    "latitude": "16.98251",
+    "longitude": "-88.230988"
+  },
+  {
+    "country_code": "BZ",
+    "region_name": "Independence",
+    "iata": "INB",
+    "icao": "MZSV",
+    "airport": "Independence Airport",
+    "latitude": "16.53456",
+    "longitude": "-88.441615"
+  },
+  {
+    "country_code": "BZ",
+    "region_name": "Orange Walk",
+    "iata": "ORZ",
+    "icao": "MZTH",
+    "airport": "H.E Alfredo Martinez (Tower Hill) Airstrip",
+    "latitude": "18.046767",
+    "longitude": "-88.583858"
+  },
+  {
+    "country_code": "BZ",
+    "region_name": "Punta Gorda",
+    "iata": "PND",
+    "icao": "MZPG",
+    "airport": "Punta Gorda Airport",
+    "latitude": "16.1024",
+    "longitude": "-88.808296"
+  },
+  {
+    "country_code": "BZ",
+    "region_name": "San Pedro",
+    "iata": "SPR",
+    "icao": "MZSP",
+    "airport": "John Greif II Airport",
+    "latitude": "17.9139",
+    "longitude": "-87.9711"
+  },
+  {
+    "country_code": "BZ",
+    "region_name": "Belize City",
+    "iata": "TZA",
+    "icao": "MZBE",
+    "airport": "Sir Barry Bowen Municipal Airport",
+    "latitude": "17.517239",
+    "longitude": "-88.195775"
+  },
+  {
     "country_code": "CA",
     "region_name": "Bella Bella",
     "iata": "ZEL",
@@ -3211,6 +3346,15 @@
     "airport": "Bella Bella (Campbell Island) Airport",
     "latitude": "52.185001",
     "longitude": "-128.156994"
+  },
+  {
+    "country_code": "US",
+    "region_name": "Crooked Creek",
+    "iata": "CKD",
+    "icao": "PACJ",
+    "airport": "Crooked Creek Airport",
+    "latitude": "61.870315",
+    "longitude": "-158.137636"
   },
   {
     "country_code": "CN",
@@ -3334,7 +3478,7 @@
     "region_name": "Zhaotong",
     "iata": "ZAT",
     "icao": "ZPZT",
-    "airport": "Zhaotong Zhaoyang Airport （Not fully opened)",
+    "airport": "Zhaotong Zhaoyang Airport",
     "latitude": "27.205843",
     "longitude": "103.691511"
   },
@@ -4172,8 +4316,8 @@
     "iata": "CXH",
     "icao": "CYHC",
     "airport": "Vancouver Harbour Water Aerodrome",
-    "latitude": "49.291265",
-    "longitude": "-123.11717"
+    "latitude": "49.290739",
+    "longitude": "-123.118541"
   },
   {
     "country_code": "CA",
@@ -4235,8 +4379,8 @@
     "iata": "YHM",
     "icao": "CYHM",
     "airport": "John C. Munro Hamilton International Airport",
-    "latitude": "43.17348",
-    "longitude": "-79.931185"
+    "latitude": "43.171308",
+    "longitude": "-79.929416"
   },
   {
     "country_code": "CA",
@@ -6656,8 +6800,8 @@
     "iata": "MZW",
     "icao": "DAAY",
     "airport": "Mecheria Airport",
-    "latitude": "33.535900116",
-    "longitude": "-0.242353007197"
+    "latitude": "33.5359",
+    "longitude": "-0.242353"
   },
   {
     "country_code": "DZ",
@@ -7772,8 +7916,8 @@
     "iata": "GAF",
     "icao": "DTTF",
     "airport": "Gafsa Ksar International Airport",
-    "latitude": "34.422000885009766",
-    "longitude": "8.822500228881836"
+    "latitude": "34.422001",
+    "longitude": "8.8225"
   },
   {
     "country_code": "TN",
@@ -9514,7 +9658,7 @@
   },
   {
     "country_code": "GB",
-    "region_name": "Edinburgh",
+    "region_name": "Ingliston, Edinburgh",
     "iata": "EDI",
     "icao": "EGPH",
     "airport": "Edinburgh Airport",
@@ -11134,15 +11278,6 @@
   },
   {
     "country_code": "SE",
-    "region_name": "Gävle / Sandviken",
-    "iata": "GVX",
-    "icao": "ESSK",
-    "airport": "Gävle Sandviken Airport",
-    "latitude": "60.5933",
-    "longitude": "16.951401"
-  },
-  {
-    "country_code": "SE",
     "region_name": "Linköping",
     "iata": "LPI",
     "icao": "ESSL",
@@ -11507,8 +11642,8 @@
     "iata": "PZL",
     "icao": "FADQ",
     "airport": "Zulu Inyala Airport",
-    "latitude": "-27.84939956665039",
-    "longitude": "32.30970001220703"
+    "latitude": "-27.8494",
+    "longitude": "32.3097"
   },
   {
     "country_code": "ZA",
@@ -13077,6 +13212,15 @@
     "longitude": "26.365100860595703"
   },
   {
+    "country_code": "US",
+    "region_name": "Flat",
+    "iata": "FLT",
+    "icao": "PAFT",
+    "airport": "Flat Airport",
+    "latitude": "62.452599",
+    "longitude": "-157.988998"
+  },
+  {
     "country_code": "ZM",
     "region_name": "Zambezi",
     "iata": "BBZ",
@@ -13084,6 +13228,15 @@
     "airport": "Zambezi Airport",
     "latitude": "-13.535996",
     "longitude": "23.10559"
+  },
+  {
+    "country_code": "FM",
+    "region_name": "Falalop Island",
+    "iata": "ULI",
+    "icao": "PTYU",
+    "airport": "Ulithi Airport",
+    "latitude": "10.0198",
+    "longitude": "139.789993"
   },
   {
     "country_code": "KM",
@@ -13717,21 +13870,21 @@
   },
   {
     "country_code": "AO",
-    "region_name": "Camaxilo",
-    "iata": "CXM",
-    "icao": "FNCX",
-    "airport": "Camaxilo Airport",
-    "latitude": "-8.37361",
-    "longitude": "18.923599"
-  },
-  {
-    "country_code": "AO",
     "region_name": "Cazombo",
     "iata": "CAV",
     "icao": "FNCZ",
     "airport": "Cazombo Airport",
     "latitude": "-11.8931",
     "longitude": "22.916239"
+  },
+  {
+    "country_code": "MV",
+    "region_name": "Funadhoo",
+    "iata": "FND",
+    "icao": "VRCF",
+    "airport": "Funadhoo Airport",
+    "latitude": "6.162443",
+    "longitude": "73.28752"
   },
   {
     "country_code": "AO",
@@ -15796,6 +15949,15 @@
   },
   {
     "country_code": "ML",
+    "region_name": "Sikasso",
+    "iata": "KSS",
+    "icao": "GASO",
+    "airport": "Sikasso (Dignangan) Airport",
+    "latitude": "11.598382",
+    "longitude": "-5.798896"
+  },
+  {
+    "country_code": "ML",
     "region_name": "Timbuktu",
     "iata": "TOM",
     "icao": "GATB",
@@ -16693,15 +16855,6 @@
     "airport": "Amílcar Cabral International Airport",
     "latitude": "16.7414",
     "longitude": "-22.9494"
-  },
-  {
-    "country_code": "CV",
-    "region_name": "Ponta do Sol",
-    "iata": "NTO",
-    "icao": "GVAN",
-    "airport": "Agostinho Neto Airport",
-    "latitude": "17.202800750732422",
-    "longitude": "-25.090599060058594"
   },
   {
     "country_code": "CV",
@@ -17960,8 +18113,8 @@
     "iata": "GHT",
     "icao": "HLGT",
     "airport": "Ghat Airport",
-    "latitude": "25.1455993652",
-    "longitude": "10.142600059500001"
+    "latitude": "25.145599",
+    "longitude": "10.1426"
   },
   {
     "country_code": "LY",
@@ -18729,6 +18882,24 @@
     "longitude": "108.960395"
   },
   {
+    "country_code": "ID",
+    "region_name": "Sungai Penuh",
+    "iata": "KRC",
+    "icao": "WIJI",
+    "airport": "Departi Parbo Airport",
+    "latitude": "-2.094042",
+    "longitude": "101.47025"
+  },
+  {
+    "country_code": "ID",
+    "region_name": "Sipura Island",
+    "iata": "RKI",
+    "icao": "WIEB",
+    "airport": "Mentawai Airport",
+    "latitude": "-2.1001",
+    "longitude": "99.7044"
+  },
+  {
     "country_code": "IN",
     "region_name": "Pakyong",
     "iata": "PYG",
@@ -18745,6 +18916,15 @@
     "airport": "Maharshi Valmiki International Airport",
     "latitude": "26.747736",
     "longitude": "82.163664"
+  },
+  {
+    "country_code": "IN",
+    "region_name": "Amravati",
+    "iata": "AVR",
+    "icao": "VAAM",
+    "airport": "Amravati  Airport",
+    "latitude": "20.814608",
+    "longitude": "77.717765"
   },
   {
     "country_code": "IN",
@@ -18772,6 +18952,15 @@
     "airport": "Rashtrakavi Kuvempu Airport",
     "latitude": "13.858024",
     "longitude": "75.618868"
+  },
+  {
+    "country_code": "IN",
+    "region_name": "Hollongi",
+    "iata": "HGI",
+    "icao": "VEHO",
+    "airport": "Itanagar Donyi Polo Hollongi Airport",
+    "latitude": "26.96683",
+    "longitude": "93.638792"
   },
   {
     "country_code": "IN",
@@ -18835,6 +19024,15 @@
     "airport": "Chizhou Jiuhuashan Airport",
     "latitude": "30.7403",
     "longitude": "117.6856"
+  },
+  {
+    "country_code": "US",
+    "region_name": "Boulder City",
+    "iata": "BLD",
+    "icao": "KBVU",
+    "airport": "Boulder City Municipal Airport",
+    "latitude": "35.947161",
+    "longitude": "-114.858799"
   },
   {
     "country_code": "US",
@@ -23692,9 +23890,9 @@
     "region_name": "Galesburg",
     "iata": "GBG",
     "icao": "KGBG",
-    "airport": "Galesburg Municipal Airport",
-    "latitude": "40.937999725299996",
-    "longitude": "-90.431098938"
+    "airport": "Galesburg Regional HW Timmons  Airport",
+    "latitude": "40.938",
+    "longitude": "-90.431099"
   },
   {
     "country_code": "US",
@@ -24085,12 +24283,12 @@
   },
   {
     "country_code": "US",
-    "region_name": "Fort Lewis/Tacoma",
+    "region_name": "Joint Base Lewis McChord",
     "iata": "GRF",
     "icao": "KGRF",
     "airport": "Gray Army Air Field",
-    "latitude": "47.07920074",
-    "longitude": "-122.5810013"
+    "latitude": "47.079201",
+    "longitude": "-122.581001"
   },
   {
     "country_code": "US",
@@ -24268,9 +24466,18 @@
     "region_name": "Glenwood Springs",
     "iata": "GWS",
     "icao": "KGWS",
-    "airport": "Glenwood Springs Municipal Airport",
-    "latitude": "39.5083007812",
-    "longitude": "-107.310997009"
+    "airport": "Sumers Airpark",
+    "latitude": "39.506083",
+    "longitude": "-107.309232"
+  },
+  {
+    "country_code": "US",
+    "region_name": "Grayling",
+    "iata": "KGX",
+    "icao": "PAGX",
+    "airport": "Grayling Airport",
+    "latitude": "62.895187",
+    "longitude": "-160.066289"
   },
   {
     "country_code": "US",
@@ -24307,6 +24514,24 @@
     "airport": "Phoenix Goodyear Airport",
     "latitude": "33.4225006104",
     "longitude": "-112.375999451"
+  },
+  {
+    "country_code": "US",
+    "region_name": "Gary",
+    "iata": "GYY",
+    "icao": "KGYY",
+    "airport": "Gary/Chicago International Airport",
+    "latitude": "41.617087",
+    "longitude": "-87.413206"
+  },
+  {
+    "country_code": "KH",
+    "region_name": "Ta Noun",
+    "iata": "DSY",
+    "icao": "VDDS",
+    "airport": "Dara Sakor International Airport",
+    "latitude": "10.914244",
+    "longitude": "103.226652"
   },
   {
     "country_code": "KH",
@@ -26680,7 +26905,7 @@
     "region_name": "Memphis",
     "iata": "MEM",
     "icao": "KMEM",
-    "airport": "Memphis International Airport",
+    "airport": "Frederick W. Smith International Airport",
     "latitude": "35.043845",
     "longitude": "-89.97634"
   },
@@ -28694,7 +28919,7 @@
   {
     "country_code": "US",
     "region_name": "West Palm Beach",
-    "iata": "PBI",
+    "iata": "DJT",
     "icao": "KDJT",
     "airport": "President Donald J. Trump International Airport",
     "latitude": "26.683201",
@@ -30145,7 +30370,7 @@
     "region_name": "Gwinn",
     "iata": "MQT",
     "icao": "KSAW",
-    "airport": "Marquette/Sawyer International Airport",
+    "airport": "Marquette Sawyer Regional Airport",
     "latitude": "46.351498",
     "longitude": "-87.395884"
   },
@@ -30523,7 +30748,7 @@
     "region_name": "San Jose",
     "iata": "SJC",
     "icao": "KSJC",
-    "airport": "Norman Y. Mineta San Jose International Airport",
+    "airport": "Mineta San Jose International Airport",
     "latitude": "37.362452",
     "longitude": "-121.929188"
   },
@@ -31415,8 +31640,8 @@
     "iata": "XSD",
     "icao": "KTNX",
     "airport": "Tonopah Test Range Airport",
-    "latitude": "37.7988014221",
-    "longitude": "-116.78099823"
+    "latitude": "37.798801",
+    "longitude": "-116.780998"
   },
   {
     "country_code": "US",
@@ -32458,7 +32683,7 @@
     "region_name": "Lefkoniko (Geçitkale)",
     "iata": "GEC",
     "icao": "LCGK",
-    "airport": "Lefkoniko Airport / Geçitkale Air Base",
+    "airport": "Geçitkale Airbase",
     "latitude": "35.23591",
     "longitude": "33.720088"
   },
@@ -32731,6 +32956,15 @@
     "airport": "León Airport",
     "latitude": "42.590709",
     "longitude": "-5.653406"
+  },
+  {
+    "country_code": "ES",
+    "region_name": "Logroño",
+    "iata": "RJL",
+    "icao": "LERJ",
+    "airport": "Logroño-Agoncillo Airport",
+    "latitude": "42.460953",
+    "longitude": "-2.322235"
   },
   {
     "country_code": "ES",
@@ -36756,6 +36990,15 @@
     "longitude": "-90.8358"
   },
   {
+    "country_code": "GT",
+    "region_name": "San Benito",
+    "iata": "FRS",
+    "icao": "MGMM",
+    "airport": "Mundo Maya International Airport",
+    "latitude": "16.913707",
+    "longitude": "-89.866143"
+  },
+  {
     "country_code": "HN",
     "region_name": "Ahuas",
     "iata": "AHS",
@@ -37773,6 +38016,15 @@
     "longitude": "-104.558998"
   },
   {
+    "country_code": "MN",
+    "region_name": "Khankhongor",
+    "iata": "UGT",
+    "icao": "ZMBR",
+    "airport": "Bulagtai Resort Airport",
+    "latitude": "43.749167",
+    "longitude": "104.114722"
+  },
+  {
     "country_code": "NI",
     "region_name": "Bluefields",
     "iata": "BEF",
@@ -37918,6 +38170,15 @@
   },
   {
     "country_code": "PA",
+    "region_name": "Panamá City",
+    "iata": "BLB",
+    "icao": "MPPA",
+    "airport": "Panamá Pacífico International Airport",
+    "latitude": "8.91479",
+    "longitude": "-79.599602"
+  },
+  {
+    "country_code": "PA",
     "region_name": "Jaqué",
     "iata": "JQE",
     "icao": "MPJE",
@@ -37942,6 +38203,15 @@
     "airport": "Puerto Obaldía Airport",
     "latitude": "8.668813",
     "longitude": "-77.417399"
+  },
+  {
+    "country_code": "PA",
+    "region_name": "Pedasí",
+    "iata": "PDM",
+    "icao": "MPPD",
+    "airport": "Capt. J. Montenegro Airport",
+    "latitude": "7.534801",
+    "longitude": "-80.043347"
   },
   {
     "country_code": "PA",
@@ -38011,7 +38281,7 @@
     "region_name": "Tortuguero",
     "iata": "TTQ",
     "icao": "MRBT",
-    "airport": "Barra del Tortuguero",
+    "airport": "Tortuguero Airport",
     "latitude": "10.569",
     "longitude": "-83.5149"
   },
@@ -38527,6 +38797,15 @@
     "airport": "Hermanos Ameijeiras Airport",
     "latitude": "20.9876",
     "longitude": "-76.935799"
+  },
+  {
+    "country_code": "MV",
+    "region_name": "Faresmaathodaa",
+    "iata": "FMT",
+    "icao": "VRQF",
+    "airport": "Faresmaathoda Airport",
+    "latitude": "0.192647",
+    "longitude": "73.196755"
   },
   {
     "country_code": "KY",
@@ -39418,6 +39697,15 @@
     "airport": "Hihifo Airport",
     "latitude": "-13.239445",
     "longitude": "-176.19865"
+  },
+  {
+    "country_code": "NP",
+    "region_name": "Pokhara",
+    "iata": "PHH",
+    "icao": "VNPR",
+    "airport": "Pokhara International Airport",
+    "latitude": "28.1838",
+    "longitude": "84.0147"
   },
   {
     "country_code": "AS",
@@ -40379,8 +40667,8 @@
     "iata": "NSN",
     "icao": "NZNS",
     "airport": "Nelson Airport",
-    "latitude": "-41.298302",
-    "longitude": "173.220993"
+    "latitude": "-41.296709",
+    "longitude": "173.224323"
   },
   {
     "country_code": "NZ",
@@ -41895,6 +42183,15 @@
     "longitude": "36.011299"
   },
   {
+    "country_code": "OM",
+    "region_name": "Duqm",
+    "iata": "DQM",
+    "icao": "OODQ",
+    "airport": "Duqm International Airport",
+    "latitude": "19.501944",
+    "longitude": "57.634167"
+  },
+  {
     "country_code": "AE",
     "region_name": "Abu Dhabi",
     "iata": "AUH",
@@ -42100,15 +42397,6 @@
     "airport": "Thar Airport",
     "latitude": "27.203205",
     "longitude": "69.14884"
-  },
-  {
-    "country_code": "PK",
-    "region_name": "Bannu",
-    "iata": "BNP",
-    "icao": "OPBN",
-    "airport": "Bannu Airport",
-    "latitude": "32.9729",
-    "longitude": "70.527901"
   },
   {
     "country_code": "PK",
@@ -42822,6 +43110,24 @@
     "longitude": "44.139099"
   },
   {
+    "country_code": "PA",
+    "region_name": "Puerto Piña",
+    "iata": "BFQ",
+    "icao": "MPPI",
+    "airport": "Bahia Piña Airport",
+    "latitude": "7.58737",
+    "longitude": "-78.179939"
+  },
+  {
+    "country_code": "PA",
+    "region_name": "Contadora Island",
+    "iata": "OTD",
+    "icao": "MPRA",
+    "airport": "Raul Arias Espinoza Airport",
+    "latitude": "8.62876",
+    "longitude": "-79.034698"
+  },
+  {
     "country_code": "US",
     "region_name": "Atka",
     "iata": "AKB",
@@ -43486,6 +43792,15 @@
     "airport": "Wales Airport",
     "latitude": "65.622593",
     "longitude": "-168.095"
+  },
+  {
+    "country_code": "US",
+    "region_name": "Chignik",
+    "iata": "KCG",
+    "icao": "PAJC",
+    "airport": "Chignik Airport",
+    "latitude": "56.311501",
+    "longitude": "-158.373001"
   },
   {
     "country_code": "US",
@@ -44290,6 +44605,15 @@
   },
   {
     "country_code": "US",
+    "region_name": "Alakanuk",
+    "iata": "AUK",
+    "icao": "PAUK",
+    "airport": "Alakanuk Airport",
+    "latitude": "62.682653",
+    "longitude": "-164.722481"
+  },
+  {
+    "country_code": "US",
     "region_name": "Umiat",
     "iata": "UMT",
     "icao": "PAUM",
@@ -44314,6 +44638,15 @@
     "airport": "Willow Airport",
     "latitude": "61.7542",
     "longitude": "-150.052002"
+  },
+  {
+    "country_code": "US",
+    "region_name": "Akutan",
+    "iata": "KQA",
+    "icao": "PAUT",
+    "airport": "Akutan Airport",
+    "latitude": "54.14459",
+    "longitude": "-165.604332"
   },
   {
     "country_code": "US",
@@ -44584,6 +44917,15 @@
     "airport": "Fort Yukon Airport",
     "latitude": "66.571651",
     "longitude": "-145.249987"
+  },
+  {
+    "country_code": "PG",
+    "region_name": "Lake Murray",
+    "iata": "LMY",
+    "icao": "AYLM",
+    "airport": "Lake Murray Airport",
+    "latitude": "-7.00992",
+    "longitude": "141.494003"
   },
   {
     "country_code": "MP",
@@ -46062,6 +46404,15 @@
     "longitude": "128.34971"
   },
   {
+    "country_code": "US",
+    "region_name": "Rampart",
+    "iata": "RMP",
+    "icao": "PFMP",
+    "airport": "Rampart Airport",
+    "latitude": "65.507896",
+    "longitude": "-150.141007"
+  },
+  {
     "country_code": "JP",
     "region_name": "Naha",
     "iata": "OKA",
@@ -47377,6 +47728,15 @@
   },
   {
     "country_code": "AR",
+    "region_name": "El Calafate",
+    "iata": "FTE",
+    "icao": "SAWC",
+    "airport": "El Calafate - Commander Armando Tola International Airport",
+    "latitude": "-50.280267",
+    "longitude": "-72.053401"
+  },
+  {
+    "country_code": "AR",
     "region_name": "Puerto Deseado",
     "iata": "PUD",
     "icao": "SAWD",
@@ -47845,6 +48205,15 @@
   },
   {
     "country_code": "BR",
+    "region_name": "Criciúma",
+    "iata": "CCM",
+    "icao": "SSIM",
+    "airport": "Forquilhinha - Criciúma  Airport",
+    "latitude": "-28.725743",
+    "longitude": "-49.424475"
+  },
+  {
+    "country_code": "BR",
     "region_name": "Caldas Novas",
     "iata": "CLV",
     "icao": "SBCN",
@@ -47983,7 +48352,7 @@
     "region_name": "Rio De Janeiro",
     "iata": "GIG",
     "icao": "SBGL",
-    "airport": "Rio Galeão – Tom Jobim International Airport",
+    "airport": "Rio de Janeiro Galeão – Tom Jobim International Airport",
     "latitude": "-22.809999",
     "longitude": "-43.250557"
   },
@@ -48013,6 +48382,15 @@
     "airport": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
     "latitude": "-23.431274",
     "longitude": "-46.469954"
+  },
+  {
+    "country_code": "BR",
+    "region_name": "Guarapuava",
+    "iata": "GPB",
+    "icao": "SSGG",
+    "airport": "Tancredo Thomas de Faria Airport",
+    "latitude": "-25.388327",
+    "longitude": "-51.52349"
   },
   {
     "country_code": "BR",
@@ -48130,6 +48508,15 @@
     "airport": "São Paulo Catarina Executive Airport",
     "latitude": "-23.426886",
     "longitude": "-47.165658"
+  },
+  {
+    "country_code": "BR",
+    "region_name": "Ji-Paraná",
+    "iata": "JPR",
+    "icao": "SBJI",
+    "airport": "Ji-Paraná Airport",
+    "latitude": "-10.870743",
+    "longitude": "-61.846675"
   },
   {
     "country_code": "BR",
@@ -48421,6 +48808,15 @@
   },
   {
     "country_code": "BR",
+    "region_name": "Pato Branco",
+    "iata": "PTO",
+    "icao": "SBPO",
+    "airport": "Juvenal Loureiro Cardoso Airport",
+    "latitude": "-26.217184",
+    "longitude": "-52.694463"
+  },
+  {
+    "country_code": "BR",
     "region_name": "Ponta Porã",
     "iata": "PMG",
     "icao": "SBPP",
@@ -48493,6 +48889,24 @@
   },
   {
     "country_code": "BR",
+    "region_name": "Barreirinhas",
+    "iata": "BRB",
+    "icao": "SSRS",
+    "airport": "Barreirinhas National Airport",
+    "latitude": "-2.756644",
+    "longitude": "-42.803187"
+  },
+  {
+    "country_code": "BR",
+    "region_name": "Natal",
+    "iata": "NAT",
+    "icao": "SBSG",
+    "airport": "Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport",
+    "latitude": "-5.769822",
+    "longitude": "-35.36661"
+  },
+  {
+    "country_code": "BR",
     "region_name": "Sinop",
     "iata": "OPS",
     "icao": "SBSI",
@@ -48535,6 +48949,15 @@
     "airport": "Santarém - Maestro Wilson Fonseca International Airport",
     "latitude": "-2.422423",
     "longitude": "-54.79306"
+  },
+  {
+    "country_code": "BR",
+    "region_name": "Sorriso",
+    "iata": "SMT",
+    "icao": "SBSO",
+    "airport": "Adolino Bedin Regional Airport",
+    "latitude": "-12.479177",
+    "longitude": "-55.672341"
   },
   {
     "country_code": "BR",
@@ -49195,6 +49618,15 @@
   },
   {
     "country_code": "BR",
+    "region_name": "Feira de Santana",
+    "iata": "FEC",
+    "icao": "SDIY",
+    "airport": "João Durval Carneiro Airport",
+    "latitude": "-12.200694",
+    "longitude": "-38.906164"
+  },
+  {
+    "country_code": "BR",
     "region_name": "Jales",
     "iata": "JLS",
     "icao": "SDJL",
@@ -49237,6 +49669,15 @@
     "airport": "Mário Pereira Lopes–São Carlos International Airport",
     "latitude": "-21.875032",
     "longitude": "-47.903851"
+  },
+  {
+    "country_code": "BR",
+    "region_name": "Paraty",
+    "iata": "JPY",
+    "icao": "SDTK",
+    "airport": "Paraty Airport",
+    "latitude": "-23.224044",
+    "longitude": "-44.7234"
   },
   {
     "country_code": "BR",
@@ -49345,6 +49786,15 @@
     "airport": "Jipijapa Airport",
     "latitude": "-1",
     "longitude": "-80.66666412353516"
+  },
+  {
+    "country_code": "EC",
+    "region_name": "Latacunga",
+    "iata": "LTX",
+    "icao": "SELT",
+    "airport": "Cotopaxi International Airport",
+    "latitude": "-0.906833",
+    "longitude": "-78.615799"
   },
   {
     "country_code": "EC",
@@ -49480,6 +49930,15 @@
     "airport": "Tiputini Airport",
     "latitude": "-0.776111",
     "longitude": "-75.526398"
+  },
+  {
+    "country_code": "EC",
+    "region_name": "La Toma (Catamayo)",
+    "iata": "LOH",
+    "icao": "SECA",
+    "airport": "Ciudad de Catamayo Airport",
+    "latitude": "-3.995606",
+    "longitude": "-79.371902"
   },
   {
     "country_code": "EC",
@@ -49633,6 +50092,15 @@
     "airport": "Tenente Lund Pressoto Airport",
     "latitude": "-20.592199",
     "longitude": "-47.3829"
+  },
+  {
+    "country_code": "BR",
+    "region_name": "Maraú",
+    "iata": "MUU",
+    "icao": "SIRI",
+    "airport": "Barra Grande Airport",
+    "latitude": "-13.906082",
+    "longitude": "-38.940804"
   },
   {
     "country_code": "BR",
@@ -50707,6 +51175,15 @@
   },
   {
     "country_code": "BO",
+    "region_name": "Guayaramerín",
+    "iata": "GYA",
+    "icao": "SLGM",
+    "airport": "Guayaramerín Airport",
+    "latitude": "-10.88856",
+    "longitude": "-65.380955"
+  },
+  {
+    "country_code": "BO",
     "region_name": "Chimore",
     "iata": "CCA",
     "icao": "SLHI",
@@ -51184,6 +51661,15 @@
   },
   {
     "country_code": "BR",
+    "region_name": "Paragominas",
+    "iata": "JPE",
+    "icao": "SNEB",
+    "airport": "Nagib Demachki Airport",
+    "latitude": "-3.019798",
+    "longitude": "-47.316474"
+  },
+  {
+    "country_code": "BR",
     "region_name": "Canavieiras",
     "iata": "CNV",
     "icao": "SNED",
@@ -51436,6 +51922,15 @@
   },
   {
     "country_code": "BR",
+    "region_name": "Salinópolis",
+    "iata": "OPP",
+    "icao": "SNSM",
+    "airport": "Salinópolis Airport",
+    "latitude": "-0.696111",
+    "longitude": "-47.336111"
+  },
+  {
+    "country_code": "BR",
     "region_name": "Teixeira de Freitas",
     "iata": "TXF",
     "icao": "SNTF",
@@ -51514,6 +52009,15 @@
     "airport": "Pouso Alegre Airport",
     "latitude": "-22.2892",
     "longitude": "-45.919102"
+  },
+  {
+    "country_code": "BR",
+    "region_name": "Paracatu",
+    "iata": "PYT",
+    "icao": "SNZR",
+    "airport": "Pedro Rabelo de Souza Airport",
+    "latitude": "-17.242599",
+    "longitude": "-46.883099"
   },
   {
     "country_code": "BR",
@@ -52831,6 +53335,15 @@
   },
   {
     "country_code": "BR",
+    "region_name": "Pontes e Lacerda",
+    "iata": "LCB",
+    "icao": "SWBG",
+    "airport": "André Antônio Maggi Airport",
+    "latitude": "-15.1934",
+    "longitude": "-59.3848"
+  },
+  {
+    "country_code": "BR",
     "region_name": "Borba",
     "iata": "RBB",
     "icao": "SWBR",
@@ -53249,8 +53762,8 @@
     "iata": "KRM",
     "icao": "SYKR",
     "airport": "Karanambo Airport",
-    "latitude": "3.752572",
-    "longitude": "-59.30902"
+    "latitude": "3.769883",
+    "longitude": "-59.344409"
   },
   {
     "country_code": "GY",
@@ -53600,8 +54113,8 @@
     "iata": "MAZ",
     "icao": "TJMZ",
     "airport": "Eugenio Maria De Hostos Airport",
-    "latitude": "18.255699157714844",
-    "longitude": "-67.14849853515625"
+    "latitude": "18.255699",
+    "longitude": "-67.148499"
   },
   {
     "country_code": "PR",
@@ -53755,15 +54268,6 @@
     "airport": "Clayton J. Lloyd International Airport",
     "latitude": "18.204773",
     "longitude": "-63.05383"
-  },
-  {
-    "country_code": "TR",
-    "region_name": "Serik",
-    "iata": "XXX",
-    "icao": "XXXX",
-    "airport": "Serik Bus Station Helipad",
-    "latitude": "36.913289",
-    "longitude": "31.083723"
   },
   {
     "country_code": "MS",
@@ -54262,15 +54766,6 @@
   },
   {
     "country_code": "RU",
-    "region_name": "Batagay-Alyta",
-    "iata": "SUK",
-    "icao": "UEBS",
-    "airport": "Sakkyryr Airport",
-    "latitude": "67.792",
-    "longitude": "130.394"
-  },
-  {
-    "country_code": "RU",
     "region_name": "Ust-Kuyga",
     "iata": "UKG",
     "icao": "UEBT",
@@ -54293,8 +54788,8 @@
     "iata": "ADH",
     "icao": "UEEA",
     "airport": "Aldan Airport",
-    "latitude": "58.60279846191406",
-    "longitude": "125.40899658203125"
+    "latitude": "58.602798",
+    "longitude": "125.408997"
   },
   {
     "country_code": "RU",
@@ -54365,8 +54860,8 @@
     "iata": "UMS",
     "icao": "UEMU",
     "airport": "Ust-Maya Airport",
-    "latitude": "60.356998443604",
-    "longitude": "134.43499755859"
+    "latitude": "60.357437",
+    "longitude": "134.43731"
   },
   {
     "country_code": "RU",
@@ -54410,17 +54905,8 @@
     "iata": "ULK",
     "icao": "UERL",
     "airport": "Lensk Airport",
-    "latitude": "60.7206001282",
-    "longitude": "114.825996399"
-  },
-  {
-    "country_code": "RU",
-    "region_name": "Olenyok",
-    "iata": "ONK",
-    "icao": "UERO",
-    "airport": "Olenyok Airport",
-    "latitude": "68.514999",
-    "longitude": "112.480003"
+    "latitude": "60.723594",
+    "longitude": "114.825319"
   },
   {
     "country_code": "RU",
@@ -54460,15 +54946,6 @@
   },
   {
     "country_code": "RU",
-    "region_name": "Srednekolymsk",
-    "iata": "SEK",
-    "icao": "UESK",
-    "airport": "Srednekolymsk Airport",
-    "latitude": "67.4805",
-    "longitude": "153.7364"
-  },
-  {
-    "country_code": "RU",
     "region_name": "Chokurdah",
     "iata": "CKH",
     "icao": "UESO",
@@ -54482,8 +54959,8 @@
     "iata": "CYX",
     "icao": "UESS",
     "airport": "Cherskiy Airport",
-    "latitude": "68.7406005859375",
-    "longitude": "161.33799743652344"
+    "latitude": "68.740601",
+    "longitude": "161.337997"
   },
   {
     "country_code": "RU",
@@ -54563,8 +55040,8 @@
     "iata": "BQS",
     "icao": "UHBB",
     "airport": "Ignatyevo Airport",
-    "latitude": "50.42539978027344",
-    "longitude": "127.41200256347656"
+    "latitude": "50.426723",
+    "longitude": "127.415502"
   },
   {
     "country_code": "RU",
@@ -54590,8 +55067,8 @@
     "iata": "KXK",
     "icao": "UHKK",
     "airport": "Komsomolsk-on-Amur Airport",
-    "latitude": "50.409000396728516",
-    "longitude": "136.9340057373047"
+    "latitude": "50.409",
+    "longitude": "136.934006"
   },
   {
     "country_code": "RU",
@@ -54617,8 +55094,8 @@
     "iata": "PVS",
     "icao": "UHMD",
     "airport": "Provideniya Bay Airport",
-    "latitude": "64.37809753417969",
-    "longitude": "-173.2429962158203"
+    "latitude": "64.378098",
+    "longitude": "-173.242996"
   },
   {
     "country_code": "RU",
@@ -54748,15 +55225,6 @@
   },
   {
     "country_code": "RU",
-    "region_name": "Nogliki",
-    "iata": "NGK",
-    "icao": "UHSN",
-    "airport": "Nogliki Airport",
-    "latitude": "51.783955",
-    "longitude": "143.141785"
-  },
-  {
-    "country_code": "RU",
     "region_name": "Tymovskoye",
     "iata": "ZZO",
     "icao": "UHSO",
@@ -54865,6 +55333,15 @@
   },
   {
     "country_code": "RU",
+    "region_name": "Nizhneangarsk",
+    "iata": "NZG",
+    "icao": "UIUN",
+    "airport": "Nizhneangarsk International Airport",
+    "latitude": "55.8008",
+    "longitude": "109.595001"
+  },
+  {
+    "country_code": "RU",
     "region_name": "Ulan Ude",
     "iata": "UUD",
     "icao": "UIUU",
@@ -54896,8 +55373,8 @@
     "iata": "MPW",
     "icao": "UKCM",
     "airport": "Mariupol International Airport",
-    "latitude": "47.07609939575195",
-    "longitude": "37.44960021972656"
+    "latitude": "47.076099",
+    "longitude": "37.4496"
   },
   {
     "country_code": "UA",
@@ -54932,8 +55409,8 @@
     "iata": "KWG",
     "icao": "UKDR",
     "airport": "Kryvyi Rih International Airport",
-    "latitude": "48.04330062866211",
-    "longitude": "33.209999084472656"
+    "latitude": "48.043301",
+    "longitude": "33.209999"
   },
   {
     "country_code": "UA",
@@ -55009,6 +55486,15 @@
   },
   {
     "country_code": "UA",
+    "region_name": "Kyiv",
+    "iata": "IEV",
+    "icao": "UKKK",
+    "airport": "Igor Sikorsky Kyiv International Airport (Zhuliany)",
+    "latitude": "50.40194",
+    "longitude": "30.45194"
+  },
+  {
+    "country_code": "UA",
     "region_name": "Zhytomyr",
     "iata": "ZTR",
     "icao": "UKKV",
@@ -55040,8 +55526,8 @@
     "iata": "IFO",
     "icao": "UKLI",
     "airport": "Ivano-Frankivsk International Airport",
-    "latitude": "48.88420104980469",
-    "longitude": "24.686100006103516"
+    "latitude": "48.884201",
+    "longitude": "24.6861"
   },
   {
     "country_code": "UA",
@@ -55058,8 +55544,8 @@
     "iata": "CWC",
     "icao": "UKLN",
     "airport": "Chernivtsi International Airport",
-    "latitude": "48.259300231933594",
-    "longitude": "25.98080062866211"
+    "latitude": "48.2593",
+    "longitude": "25.980801"
   },
   {
     "country_code": "UA",
@@ -55067,8 +55553,8 @@
     "iata": "RWN",
     "icao": "UKLR",
     "airport": "Rivne International Airport",
-    "latitude": "50.60710144042969",
-    "longitude": "26.141599655151367"
+    "latitude": "50.607101",
+    "longitude": "26.1416"
   },
   {
     "country_code": "UA",
@@ -55096,6 +55582,15 @@
     "airport": "Kherson International Airport",
     "latitude": "46.6758",
     "longitude": "32.506401"
+  },
+  {
+    "country_code": "UA",
+    "region_name": "Mykolaiv",
+    "iata": "NLV",
+    "icao": "UKON",
+    "airport": "Mykolaiv International Airport [CLOSED]",
+    "latitude": "47.057899",
+    "longitude": "31.9198"
   },
   {
     "country_code": "UA",
@@ -55148,8 +55643,8 @@
     "iata": "AMV",
     "icao": "ULDD",
     "airport": "Amderma Airport",
-    "latitude": "69.76329803466797",
-    "longitude": "61.556400299072266"
+    "latitude": "69.763712",
+    "longitude": "61.556711"
   },
   {
     "country_code": "RU",
@@ -55351,6 +55846,15 @@
   },
   {
     "country_code": "RU",
+    "region_name": "Severo-Yeniseysk",
+    "iata": "VEO",
+    "icao": "UNIS",
+    "airport": "Severo-Yeniseysk Airport",
+    "latitude": "60.373299",
+    "longitude": "93.011703"
+  },
+  {
+    "country_code": "RU",
     "region_name": "Tura",
     "iata": "GOY",
     "icao": "UNIT",
@@ -55360,12 +55864,30 @@
   },
   {
     "country_code": "RU",
+    "region_name": "Vanavara",
+    "iata": "VAQ",
+    "icao": "UNIW",
+    "airport": "Vanavara Airport",
+    "latitude": "60.356229",
+    "longitude": "102.309641"
+  },
+  {
+    "country_code": "RU",
     "region_name": "Krasnoyarsk",
     "iata": "KJA",
     "icao": "UNKL",
     "airport": "Krasnoyarsk International Airport",
     "latitude": "56.175743",
     "longitude": "92.485788"
+  },
+  {
+    "country_code": "RU",
+    "region_name": "Krasnoyarsk",
+    "iata": "KCY",
+    "icao": "UNKM",
+    "airport": "Krasnoyarsk Cheremshanka Airport",
+    "latitude": "56.177584",
+    "longitude": "92.545881"
   },
   {
     "country_code": "RU",
@@ -55573,15 +56095,6 @@
     "airport": "Platov International Airport",
     "latitude": "47.493888",
     "longitude": "39.924722"
-  },
-  {
-    "country_code": "RU",
-    "region_name": "Taganrog",
-    "iata": "TGK",
-    "icao": "URRT",
-    "airport": "Taganrog Yuzhny Airport",
-    "latitude": "47.1983333",
-    "longitude": "38.8491667"
   },
   {
     "country_code": "RU",
@@ -55819,15 +56332,6 @@
   },
   {
     "country_code": "RU",
-    "region_name": "Nefteyugansk",
-    "iata": "NFG",
-    "icao": "USRN",
-    "airport": "Nefteyugansk Airport",
-    "latitude": "61.108299",
-    "longitude": "72.650002"
-  },
-  {
-    "country_code": "RU",
     "region_name": "Noyabrsk",
     "iata": "NOJ",
     "icao": "USRO",
@@ -55856,11 +56360,11 @@
   {
     "country_code": "RU",
     "region_name": "Tobolsk",
-    "iata": "TOX",
-    "icao": "USTO",
-    "airport": "Tobolsk Airport",
-    "latitude": "58.135799",
-    "longitude": "68.231903"
+    "iata": "RMZ",
+    "icao": "USTJ",
+    "airport": "Tobolsk Remezov Airport",
+    "latitude": "58.059712",
+    "longitude": "68.347997"
   },
   {
     "country_code": "RU",
@@ -56143,15 +56647,6 @@
   },
   {
     "country_code": "RU",
-    "region_name": "Rybinsk",
-    "iata": "RYB",
-    "icao": "UUBK",
-    "airport": "Staroselye Airport",
-    "latitude": "58.104198",
-    "longitude": "38.929401"
-  },
-  {
-    "country_code": "RU",
     "region_name": "Bryansk",
     "iata": "BZK",
     "icao": "UUBP",
@@ -56219,8 +56714,8 @@
     "iata": "EGO",
     "icao": "UUOB",
     "airport": "Belgorod International Airport",
-    "latitude": "50.643798828125",
-    "longitude": "36.5900993347168"
+    "latitude": "50.643799",
+    "longitude": "36.590099"
   },
   {
     "country_code": "RU",
@@ -56228,8 +56723,8 @@
     "iata": "URS",
     "icao": "UUOK",
     "airport": "Kursk East Airport",
-    "latitude": "51.7505989074707",
-    "longitude": "36.29560089111328"
+    "latitude": "51.750599",
+    "longitude": "36.295601"
   },
   {
     "country_code": "RU",
@@ -56237,8 +56732,8 @@
     "iata": "LPK",
     "icao": "UUOL",
     "airport": "Lipetsk Airport",
-    "latitude": "52.70280075073242",
-    "longitude": "39.53779983520508"
+    "latitude": "52.702801",
+    "longitude": "39.5378"
   },
   {
     "country_code": "RU",
@@ -56480,8 +56975,8 @@
     "iata": "UFA",
     "icao": "UWUU",
     "airport": "Ufa International Airport",
-    "latitude": "54.557498931885",
-    "longitude": "55.874401092529"
+    "latitude": "54.557499",
+    "longitude": "55.874401"
   },
   {
     "country_code": "RU",
@@ -56500,6 +56995,15 @@
     "airport": "Urzhar Airport",
     "latitude": "47.091786",
     "longitude": "81.668216"
+  },
+  {
+    "country_code": "IN",
+    "region_name": "Rewa",
+    "iata": "REW",
+    "icao": "VERW",
+    "airport": "Rewa Airport, Chorhata, REWA",
+    "latitude": "24.503401",
+    "longitude": "81.220299"
   },
   {
     "country_code": "IN",
@@ -56710,6 +57214,15 @@
   },
   {
     "country_code": "IN",
+    "region_name": "Nanded",
+    "iata": "NDC",
+    "icao": "VAND",
+    "airport": "Nanded Airport",
+    "latitude": "19.1833",
+    "longitude": "77.316704"
+  },
+  {
+    "country_code": "IN",
     "region_name": "Nagpur",
     "iata": "NAG",
     "icao": "VANP",
@@ -56752,6 +57265,15 @@
     "airport": "Rajkot Airport",
     "latitude": "22.3092",
     "longitude": "70.779503"
+  },
+  {
+    "country_code": "IN",
+    "region_name": "Raipur",
+    "iata": "RPR",
+    "icao": "VERP",
+    "airport": "Swami Vivekananda Airport",
+    "latitude": "21.180401",
+    "longitude": "81.7388"
   },
   {
     "country_code": "IN",
@@ -57313,15 +57835,6 @@
   },
   {
     "country_code": "IN",
-    "region_name": "Visakhapatnam",
-    "iata": "VTZ",
-    "icao": "VOVZ",
-    "airport": "Visakhapatnam International Airport",
-    "latitude": "17.723506",
-    "longitude": "83.227729"
-  },
-  {
-    "country_code": "IN",
     "region_name": "Ziro",
     "iata": "ZER",
     "icao": "VEZO",
@@ -57466,6 +57979,15 @@
   },
   {
     "country_code": "IN",
+    "region_name": "Aligarh",
+    "iata": "HRH",
+    "icao": "VIAH",
+    "airport": "Aligarh Airport",
+    "latitude": "27.861437",
+    "longitude": "78.145404"
+  },
+  {
+    "country_code": "IN",
     "region_name": "Allahabad",
     "iata": "IXD",
     "icao": "VEAB",
@@ -57526,6 +58048,15 @@
     "airport": "Shaheed Bhagat Singh International Airport",
     "latitude": "30.6735",
     "longitude": "76.788498"
+  },
+  {
+    "country_code": "IN",
+    "region_name": "Kanpur",
+    "iata": "KNU",
+    "icao": "VECX",
+    "airport": "Kanpur Airport",
+    "latitude": "26.404301",
+    "longitude": "80.410103"
   },
   {
     "country_code": "IN",
@@ -57655,6 +58186,15 @@
   },
   {
     "country_code": "IN",
+    "region_name": "Moradabad",
+    "iata": "MZS",
+    "icao": "VIMB",
+    "airport": "Moradabad Airport",
+    "latitude": "28.81746",
+    "longitude": "78.92187"
+  },
+  {
+    "country_code": "IN",
     "region_name": "Pathankot",
     "iata": "IXP",
     "icao": "VIPK",
@@ -57685,9 +58225,18 @@
     "region_name": "Srinagar",
     "iata": "SXR",
     "icao": "VISR",
-    "airport": "Sheikh ul Alam International Airport",
+    "airport": "Srinagar International Airport",
     "latitude": "33.987099",
     "longitude": "74.7742"
+  },
+  {
+    "country_code": "IN",
+    "region_name": "Shravasti",
+    "iata": "VSV",
+    "icao": "VISV",
+    "airport": "Shravasti Airport",
+    "latitude": "27.499732",
+    "longitude": "82.032927"
   },
   {
     "country_code": "LA",
@@ -58483,6 +59032,15 @@
   },
   {
     "country_code": "IN",
+    "region_name": "Visakhapatnam",
+    "iata": "VTZ",
+    "icao": "VOVI",
+    "airport": "Alluri Sitarama Raju International Airport (Vizag)",
+    "latitude": "17.971512",
+    "longitude": "83.503617"
+  },
+  {
+    "country_code": "IN",
     "region_name": "Warangal",
     "iata": "WGC",
     "icao": "VOWA",
@@ -58525,6 +59083,24 @@
     "airport": "Yongphulla Airport",
     "latitude": "27.25627",
     "longitude": "91.514633"
+  },
+  {
+    "country_code": "MV",
+    "region_name": "Kulhudhuffushi",
+    "iata": "HDK",
+    "icao": "VRBK",
+    "airport": "Kulhudhuffushi Airport",
+    "latitude": "6.630762",
+    "longitude": "73.067815"
+  },
+  {
+    "country_code": "MV",
+    "region_name": "Noonu Atoll",
+    "iata": "NMF",
+    "icao": "VRDA",
+    "airport": "Maafaru International Airport",
+    "latitude": "5.817407",
+    "longitude": "73.468404"
   },
   {
     "country_code": "MV",
@@ -58624,6 +59200,15 @@
     "airport": "Thimarafushi Airport",
     "latitude": "2.211",
     "longitude": "73.1533"
+  },
+  {
+    "country_code": "MV",
+    "region_name": "Maavaarulu",
+    "iata": "RUL",
+    "icao": "VRQM",
+    "airport": "Maavaarulaa Airport",
+    "latitude": "0.338085",
+    "longitude": "73.512869"
   },
   {
     "country_code": "TH",
@@ -59545,6 +60130,15 @@
   },
   {
     "country_code": "ID",
+    "region_name": "Timika",
+    "iata": "TIM",
+    "icao": "WAYY",
+    "airport": "Mozes Kilangin Airport",
+    "latitude": "-4.52978",
+    "longitude": "136.887388"
+  },
+  {
+    "country_code": "ID",
     "region_name": "Enarotali",
     "iata": "EWI",
     "icao": "WAYE",
@@ -59648,8 +60242,8 @@
     "iata": "TRT",
     "icao": "WAFB",
     "airport": "Toraja Airport",
-    "latitude": "-3.185833",
-    "longitude": "119.91775"
+    "latitude": "-3.184359",
+    "longitude": "119.919104"
   },
   {
     "country_code": "ID",
@@ -59677,6 +60271,15 @@
     "airport": "Tampa Padang Airport",
     "latitude": "-2.590017",
     "longitude": "119.025051"
+  },
+  {
+    "country_code": "ID",
+    "region_name": "Toli Toli-Celebes Island",
+    "iata": "TLI",
+    "icao": "WAFL",
+    "airport": "Sultan Bantilan Airport",
+    "latitude": "1.123428",
+    "longitude": "120.793658"
   },
   {
     "country_code": "ID",
@@ -59767,6 +60370,15 @@
     "airport": "Dewadaru Airport",
     "latitude": "-5.80091",
     "longitude": "110.47838"
+  },
+  {
+    "country_code": "ID",
+    "region_name": "Bokondini",
+    "iata": "BUI",
+    "icao": "WAVB",
+    "airport": "Bokondini Airport",
+    "latitude": "-3.68455",
+    "longitude": "138.677437"
   },
   {
     "country_code": "ID",
@@ -59911,6 +60523,15 @@
     "airport": "Melalan Airport",
     "latitude": "-0.203611",
     "longitude": "115.760002"
+  },
+  {
+    "country_code": "ID",
+    "region_name": "Tanjung Selor-Borneo Island",
+    "iata": "TJS",
+    "icao": "WAGD",
+    "airport": "Tanjung Harapan Airport",
+    "latitude": "2.838139",
+    "longitude": "117.374584"
   },
   {
     "country_code": "ID",
@@ -60112,6 +60733,15 @@
   },
   {
     "country_code": "ID",
+    "region_name": "Tumbang Samba-Borneo Island",
+    "iata": "TBM",
+    "icao": "WAGT",
+    "airport": "Tumbang Samba Airport",
+    "latitude": "-1.469024",
+    "longitude": "113.080984"
+  },
+  {
+    "country_code": "ID",
     "region_name": "Amahai",
     "iata": "AHI",
     "icao": "WAPA",
@@ -60217,6 +60847,15 @@
     "airport": "Maratua Airport",
     "latitude": "2.19759",
     "longitude": "118.599361"
+  },
+  {
+    "country_code": "ID",
+    "region_name": "Malinau",
+    "iata": "LNU",
+    "icao": "WAQM",
+    "airport": "Robert Atty Bessing",
+    "latitude": "3.575256",
+    "longitude": "116.619769"
   },
   {
     "country_code": "ID",
@@ -60577,6 +61216,15 @@
     "airport": "Haluoleo Airport",
     "latitude": "-4.08161",
     "longitude": "122.417999"
+  },
+  {
+    "country_code": "BN",
+    "region_name": "Seria",
+    "iata": "KUB",
+    "icao": "WBAK",
+    "airport": "Anduki Airport",
+    "latitude": "4.635158",
+    "longitude": "114.378748"
   },
   {
     "country_code": "MY",
@@ -60976,12 +61624,12 @@
   },
   {
     "country_code": "ID",
-    "region_name": "Tasikmalaya-Java Island",
+    "region_name": "Cibeureum, Tasikmalaya-Java Island",
     "iata": "TSY",
     "icao": "WICM",
-    "airport": "Cibeureum Airport",
-    "latitude": "-7.3466",
-    "longitude": "108.246002"
+    "airport": "Wiriadinata Airport",
+    "latitude": "-7.347967",
+    "longitude": "108.246998"
   },
   {
     "country_code": "ID",
@@ -61036,6 +61684,15 @@
     "airport": "Dabo Airport",
     "latitude": "-0.479611",
     "longitude": "104.579498"
+  },
+  {
+    "country_code": "ID",
+    "region_name": "Muko Muko",
+    "iata": "MPC",
+    "icao": "WIPU",
+    "airport": "Muko Muko Airport",
+    "latitude": "-2.541058",
+    "longitude": "101.087651"
   },
   {
     "country_code": "ID",
@@ -61165,6 +61822,15 @@
   },
   {
     "country_code": "ID",
+    "region_name": "Kutacane",
+    "iata": "LSR",
+    "icao": "WIMU",
+    "airport": "Alas Leuser Airport",
+    "latitude": "3.391456",
+    "longitude": "97.863726"
+  },
+  {
+    "country_code": "ID",
     "region_name": "Tanjung Pandan",
     "iata": "TJQ",
     "icao": "WIKT",
@@ -61189,6 +61855,15 @@
     "airport": "Rahadi Osman Airport",
     "latitude": "-1.817165",
     "longitude": "109.963469"
+  },
+  {
+    "country_code": "ID",
+    "region_name": "Ranai-Natuna Besar Island",
+    "iata": "NTX",
+    "icao": "WIDO",
+    "airport": "Ranai Airport",
+    "latitude": "3.90871",
+    "longitude": "108.388"
   },
   {
     "country_code": "ID",
@@ -61234,6 +61909,15 @@
     "airport": "Silampari Airport",
     "latitude": "-3.288165",
     "longitude": "102.91449"
+  },
+  {
+    "country_code": "ID",
+    "region_name": "Muara Bungo",
+    "iata": "BUU",
+    "icao": "WIJB",
+    "airport": "Muara Bungo Airport",
+    "latitude": "-1.541635",
+    "longitude": "102.181613"
   },
   {
     "country_code": "ID",
@@ -61297,6 +61981,15 @@
     "airport": "Cut Nyak Dhien Airport",
     "latitude": "4.040998",
     "longitude": "96.253312"
+  },
+  {
+    "country_code": "ID",
+    "region_name": "Lubang",
+    "iata": "LKI",
+    "icao": "WIML",
+    "airport": "Lasikin Airport",
+    "latitude": "2.411328",
+    "longitude": "96.327722"
   },
   {
     "country_code": "ID",
@@ -62951,8 +63644,8 @@
     "iata": "LRE",
     "icao": "YLRE",
     "airport": "Longreach Airport",
-    "latitude": "-23.4342",
-    "longitude": "144.279999"
+    "latitude": "-23.43202",
+    "longitude": "144.277492"
   },
   {
     "country_code": "AU",
@@ -63757,6 +64450,15 @@
   },
   {
     "country_code": "AU",
+    "region_name": "Albion Park Rail",
+    "iata": "WOL",
+    "icao": "YSHL",
+    "airport": "Shellharbour Airport",
+    "latitude": "-34.5611",
+    "longitude": "150.789001"
+  },
+  {
+    "country_code": "AU",
     "region_name": "Shute Harbour",
     "iata": "WSY",
     "icao": "YSHR",
@@ -63790,6 +64492,15 @@
     "airport": "Strathmore Airport",
     "latitude": "-17.862709",
     "longitude": "142.557788"
+  },
+  {
+    "country_code": "AU",
+    "region_name": "Milikapiti",
+    "iata": "SNB",
+    "icao": "YSNK",
+    "airport": "Snake Bay Airport",
+    "latitude": "-11.417674",
+    "longitude": "130.648481"
   },
   {
     "country_code": "NF",
@@ -63862,15 +64573,6 @@
     "airport": "Wagga Wagga Airport",
     "latitude": "-35.163484",
     "longitude": "147.46832"
-  },
-  {
-    "country_code": "AU",
-    "region_name": "Sydney",
-    "iata": "WSI",
-    "icao": "YSWS",
-    "airport": "Nancy Bird Walton, Western Sydney International Airport",
-    "latitude": "-33.88806",
-    "longitude": "150.71472"
   },
   {
     "country_code": "AU",
@@ -64188,6 +64890,24 @@
     "longitude": "131.824997"
   },
   {
+    "country_code": "US",
+    "region_name": "Akiachak",
+    "iata": "KKI",
+    "icao": "PFZK",
+    "airport": "Akiachak Airport",
+    "latitude": "60.913809",
+    "longitude": "-161.493329"
+  },
+  {
+    "country_code": "ZA",
+    "region_name": "Singita Safari Lodge",
+    "iata": "SSX",
+    "icao": "FASP",
+    "airport": "Singita Safari Lodge Airport",
+    "latitude": "-24.801985",
+    "longitude": "31.42194"
+  },
+  {
     "country_code": "CN",
     "region_name": "Beijing",
     "iata": "PEK",
@@ -64393,6 +65113,15 @@
     "airport": "Tongliao Airport",
     "latitude": "43.556702",
     "longitude": "122.199997"
+  },
+  {
+    "country_code": "CN",
+    "region_name": "Ulanqab",
+    "iata": "UCB",
+    "icao": "ZBUC",
+    "airport": "Ulanqab Jining Airport",
+    "latitude": "41.130266",
+    "longitude": "113.107274"
   },
   {
     "country_code": "CN",
@@ -65212,15 +65941,6 @@
     "airport": "Bulgan Airport",
     "latitude": "48.85499954223633",
     "longitude": "103.47599792480469"
-  },
-  {
-    "country_code": "MN",
-    "region_name": "Khankhongor",
-    "iata": "UGT",
-    "icao": "ZMBR",
-    "airport": "Bulagtai Resort Airport",
-    "latitude": "43.749304",
-    "longitude": "104.114985"
   },
   {
     "country_code": "MN",
