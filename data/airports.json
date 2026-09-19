@@ -4537,15 +4537,6 @@
   },
   {
     "country_code": "CA",
-    "region_name": "Stephenville",
-    "iata": "YJT",
-    "icao": "CYJT",
-    "airport": "Stephenville Dymond International Airport",
-    "latitude": "48.54339",
-    "longitude": "-58.552892"
-  },
-  {
-    "country_code": "CA",
     "region_name": "Kamloops",
     "iata": "YKA",
     "icao": "CYKA",
@@ -28549,7 +28540,7 @@
   },
   {
     "country_code": "US",
-    "region_name": "Oregon",
+    "region_name": "Ontario",
     "iata": "ONO",
     "icao": "KONO",
     "airport": "Ontario Municipal Airport",
@@ -37231,6 +37222,15 @@
     "airport": "Tinson Pen Airport",
     "latitude": "17.98859977722168",
     "longitude": "-76.82379913330078"
+  },
+  {
+    "country_code": "MM",
+    "region_name": "Hinthada",
+    "iata": "HEB",
+    "icao": "VYHT",
+    "airport": "Hinthada Airport",
+    "latitude": "17.633329",
+    "longitude": "95.466698"
   },
   {
     "country_code": "MX",
@@ -49694,8 +49694,8 @@
     "iata": "ITP",
     "icao": "SDUN",
     "airport": "Itaperuna Airport",
-    "latitude": "-21.219299316399997",
-    "longitude": "-41.8759002686"
+    "latitude": "-21.219299",
+    "longitude": "-41.8759"
   },
   {
     "country_code": "BR",
@@ -59594,8 +59594,8 @@
     "iata": "HUI",
     "icao": "VVPB",
     "airport": "Phu Bai International Airport",
-    "latitude": "16.400628",
-    "longitude": "107.703094"
+    "latitude": "16.400581",
+    "longitude": "107.704094"
   },
   {
     "country_code": "VN",
