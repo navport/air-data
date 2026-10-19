@@ -9550,7 +9550,7 @@
   },
   {
     "country_code": "IM",
-    "region_name": "Castletown",
+    "region_name": "Castletown, Rushen",
     "iata": "IOM",
     "icao": "EGNS",
     "airport": "Isle of Man Airport",
@@ -9631,7 +9631,7 @@
   },
   {
     "country_code": "GB",
-    "region_name": "Inverness",
+    "region_name": "Inverness, Highland",
     "iata": "INV",
     "icao": "EGPE",
     "airport": "Inverness Airport",
@@ -12848,8 +12848,8 @@
     "iata": "RRG",
     "icao": "FIMR",
     "airport": "Sir Charles Gaetan Duval Airport",
-    "latitude": "-19.756696",
-    "longitude": "63.359326"
+    "latitude": "-19.757668",
+    "longitude": "63.36103"
   },
   {
     "country_code": "CM",
@@ -25376,8 +25376,8 @@
     "iata": "IML",
     "icao": "KIML",
     "airport": "Imperial Municipal Airport",
-    "latitude": "40.50930023",
-    "longitude": "-101.6210022"
+    "latitude": "40.5093",
+    "longitude": "-101.621002"
   },
   {
     "country_code": "US",
@@ -25393,9 +25393,9 @@
     "region_name": "Madison",
     "iata": "MDN",
     "icao": "KIMS",
-    "airport": "Madison Municipal Airport",
-    "latitude": "38.75889969",
-    "longitude": "-85.46549988"
+    "airport": "Madison Regional Airport",
+    "latitude": "38.7589",
+    "longitude": "-85.4655"
   },
   {
     "country_code": "US",
@@ -32972,8 +32972,8 @@
     "iata": "AGP",
     "icao": "LEMG",
     "airport": "Málaga-Costa del Sol Airport",
-    "latitude": "36.6749",
-    "longitude": "-4.49911"
+    "latitude": "36.678234",
+    "longitude": "-4.500208"
   },
   {
     "country_code": "ES",
@@ -34348,9 +34348,9 @@
     "region_name": "Kefallinia Island",
     "iata": "EFL",
     "icao": "LGKF",
-    "airport": "Kefallinia Airport",
-    "latitude": "38.12009811401367",
-    "longitude": "20.500499725341797"
+    "airport": "Kefalonia International Airport \"Anna Pollatou\"",
+    "latitude": "38.120098",
+    "longitude": "20.5005"
   },
   {
     "country_code": "GR",
@@ -34618,7 +34618,7 @@
     "region_name": "Zakynthos",
     "iata": "ZTH",
     "icao": "LGZA",
-    "airport": "Zakynthos International Airport Dionysios Solomos",
+    "airport": "Zakynthos International Airport \"Dionysios Solomos\"",
     "latitude": "37.7509",
     "longitude": "20.8843"
   },
@@ -39146,8 +39146,8 @@
     "iata": "AIT",
     "icao": "NCAI",
     "airport": "Aitutaki Airport",
-    "latitude": "-18.8309",
-    "longitude": "-159.764008"
+    "latitude": "-18.837091",
+    "longitude": "-159.761008"
   },
   {
     "country_code": "CK",
@@ -41014,15 +41014,6 @@
   },
   {
     "country_code": "AF",
-    "region_name": "Ziarat-e Amiran Saseb",
-    "iata": "IMZ",
-    "icao": "OANZ",
-    "airport": "Nimroz Airport",
-    "latitude": "30.963333",
-    "longitude": "62.060833"
-  },
-  {
-    "country_code": "AF",
     "region_name": "Urgun",
     "iata": "URN",
     "icao": "OAOG",
@@ -41452,6 +41443,15 @@
     "airport": "Zilfi Airport",
     "latitude": "26.350000381469727",
     "longitude": "44.83300018310547"
+  },
+  {
+    "country_code": "IR",
+    "region_name": "Imam Hassan",
+    "iata": "IAQ",
+    "icao": "OIBH",
+    "airport": "Bahregan Airport",
+    "latitude": "29.840099",
+    "longitude": "50.272701"
   },
   {
     "country_code": "IR",
@@ -43045,15 +43045,6 @@
     "airport": "Mukeiras Airport",
     "latitude": "13.9368",
     "longitude": "45.657"
-  },
-  {
-    "country_code": "YE",
-    "region_name": "Qishn",
-    "iata": "IHN",
-    "icao": "OYQN",
-    "airport": "Qishn Airport",
-    "latitude": "15.417",
-    "longitude": "51.682999"
   },
   {
     "country_code": "YE",
@@ -45268,6 +45259,15 @@
     "airport": "Wake Island Airfield",
     "latitude": "19.282437",
     "longitude": "166.636637"
+  },
+  {
+    "country_code": "PY",
+    "region_name": "Puerto La Victoria",
+    "iata": "PCJ",
+    "icao": "SGLV",
+    "airport": "Puerto La Victoria Airport",
+    "latitude": "-22.296022",
+    "longitude": "-57.870076"
   },
   {
     "country_code": "TW",
@@ -49990,9 +49990,9 @@
     "region_name": "Ayolas",
     "iata": "AYO",
     "icao": "SGAY",
-    "airport": "Aeropuerto Nacional Juan de Ayolas",
-    "latitude": "-27.378379",
-    "longitude": "-56.856791"
+    "airport": "Juan de Ayolas National Airport",
+    "latitude": "-27.37052",
+    "longitude": "-56.854052"
   },
   {
     "country_code": "PY",
@@ -50027,17 +50027,17 @@
     "iata": "AGT",
     "icao": "SGES",
     "airport": "Guaraní International Airport",
-    "latitude": "-25.457186",
-    "longitude": "-54.839544"
+    "latitude": "-25.4555",
+    "longitude": "-54.843601"
   },
   {
     "country_code": "PY",
     "region_name": "Filadelfia",
     "iata": "FLM",
     "icao": "SGFI",
-    "airport": "Aeródromo de Filadelfia",
-    "latitude": "-22.354611",
-    "longitude": "-60.053211"
+    "airport": "Fernheim Airport",
+    "latitude": "-22.36016",
+    "longitude": "-60.054447"
   },
   {
     "country_code": "PY",
@@ -50053,7 +50053,7 @@
     "region_name": "Fuerte Olimpo",
     "iata": "OLK",
     "icao": "SGOL",
-    "airport": "Aeródromo de Fuerte",
+    "airport": "Fuerte Olimpo Airport",
     "latitude": "-21.045724",
     "longitude": "-57.882935"
   },
@@ -50062,16 +50062,16 @@
     "region_name": "Pilar",
     "iata": "PIL",
     "icao": "SGPI",
-    "airport": "Aeródromo Don Carlos Miguel Gimenez",
-    "latitude": "-26.881981",
-    "longitude": "-58.319067"
+    "airport": "Don Carlos Miguel Gimenez Airport",
+    "latitude": "-26.882079",
+    "longitude": "-58.318181"
   },
   {
     "country_code": "PY",
     "region_name": "Pedro Juan Caballero",
     "iata": "PJC",
     "icao": "SGPJ",
-    "airport": "Aeropuerto Nacional Dr. Augusto Roberto Fuster",
+    "airport": "Dr. Augusto Roberto Fuster International Airport",
     "latitude": "-22.641427",
     "longitude": "-55.829993"
   },
@@ -54968,8 +54968,8 @@
     "iata": "IKS",
     "icao": "UEST",
     "airport": "Tiksi Airport",
-    "latitude": "71.697700500488",
-    "longitude": "128.90299987793"
+    "latitude": "71.697701",
+    "longitude": "128.903"
   },
   {
     "country_code": "RU",
@@ -56687,8 +56687,8 @@
     "iata": "SVO",
     "icao": "UUEE",
     "airport": "Sheremetyevo International Airport",
-    "latitude": "55.976858",
-    "longitude": "37.41121"
+    "latitude": "55.977486",
+    "longitude": "37.386677"
   },
   {
     "country_code": "RU",
@@ -56770,15 +56770,6 @@
     "airport": "Ukhta Airport",
     "latitude": "63.566898",
     "longitude": "53.804699"
-  },
-  {
-    "country_code": "RU",
-    "region_name": "Inta",
-    "iata": "INA",
-    "icao": "UUYI",
-    "airport": "Inta Airport",
-    "latitude": "66.053372",
-    "longitude": "60.105786"
   },
   {
     "country_code": "RU",
