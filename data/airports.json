@@ -11656,15 +11656,6 @@
   },
   {
     "country_code": "ZA",
-    "region_name": "Ellisras",
-    "iata": "ELL",
-    "icao": "FAER",
-    "airport": "Ellisras Matimba Airport",
-    "latitude": "-23.726699829101562",
-    "longitude": "27.68829917907715"
-  },
-  {
-    "country_code": "ZA",
     "region_name": "Ficksburg",
     "iata": "FCB",
     "icao": "FAFB",
@@ -12103,6 +12094,15 @@
     "airport": "Secunda Airport",
     "latitude": "-26.52409935",
     "longitude": "29.170099258399997"
+  },
+  {
+    "country_code": "ZA",
+    "region_name": "Belfast",
+    "iata": "GSS",
+    "icao": "FASE",
+    "airport": "Sabi Sabi Airport",
+    "latitude": "-24.947375",
+    "longitude": "31.448848"
   },
   {
     "country_code": "ZA",
@@ -53582,8 +53582,8 @@
     "iata": "FBA",
     "icao": "SWOB",
     "airport": "Fonte Boa Airport",
-    "latitude": "-2.5326099395800004",
-    "longitude": "-66.0831985474"
+    "latitude": "-2.53261",
+    "longitude": "-66.083199"
   },
   {
     "country_code": "BR",
@@ -60532,6 +60532,15 @@
     "airport": "Datadawai Airport",
     "latitude": "0.807028",
     "longitude": "114.529052"
+  },
+  {
+    "country_code": "ID",
+    "region_name": "Nusantara",
+    "iata": "IVD",
+    "icao": "WALK",
+    "airport": "Nusantara International Airport",
+    "latitude": "-1.16053",
+    "longitude": "116.71193"
   },
   {
     "country_code": "ID",

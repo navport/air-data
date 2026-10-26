@@ -3,6 +3,7 @@ const fs = require("fs");
 const axios = require("axios").default;
 
 const append = require("./append/airlines.json");
+const details = require("./append/airlines-details.json");
 
 console.log("Creating airlines.json");
 axios
@@ -43,9 +44,19 @@ axios
           }
         }
 
+        // Attach manually entered details (website, phone, socials, etc.) as a "details" object by IATA code
+        for (const [iata, extra] of Object.entries(details)) {
+          const airline = jsonArrayObj.find(
+            (element) => element.iata_code == iata
+          );
+
+          if (airline) airline.details = extra;
+          else console.log(`airlines-details.json: no airline with IATA code ${iata}`);
+        }
+
         fs.writeFile(
           __dirname + "/../data/airlines.json",
-          JSON.stringify(jsonArrayObj),
+          JSON.stringify(jsonArrayObj, null, 2),
           function (err) {
             if (err) {
               console.log(err);

@@ -1,0 +1,206 @@
+{
+  "AA": {
+    "website": "https://www.aa.com",
+    "phone": "+18004337300",
+    "instagram": "americanair",
+    "twitter": "AmericanAir"
+  },
+  "DL": {
+    "website": "https://www.delta.com",
+    "phone": "+18002211212",
+    "instagram": "delta",
+    "twitter": "Delta"
+  },
+  "UA": {
+    "website": "https://www.united.com",
+    "phone": "",
+    "instagram": "united",
+    "twitter": "United"
+  },
+  "WN": {
+    "website": "https://www.southwest.com",
+    "phone": "",
+    "instagram": "southwestair",
+    "twitter": "SouthwestAir"
+  },
+  "B6": {
+    "website": "https://www.jetblue.com",
+    "phone": "",
+    "instagram": "jetblue",
+    "twitter": "jetblue"
+  },
+  "AS": {
+    "website": "https://www.alaskaair.com",
+    "phone": "",
+    "instagram": "alaskaair",
+    "twitter": "AlaskaAir"
+  },
+  "F9": {
+    "website": "https://www.flyfrontier.com",
+    "phone": "+16023335925",
+    "instagram": "flyfrontier",
+    "twitter": "FlyFrontier"
+  },
+  "HA": {
+    "website": "https://www.hawaiianairlines.com",
+    "phone": "",
+    "instagram": "hawaiianairlines",
+    "twitter": "HawaiianAir"
+  },
+  "G4": {
+    "website": "https://www.allegiantair.com",
+    "phone": "+17025058888",
+    "instagram": "allegiant",
+    "twitter": "allegiant"
+  },
+  "SY": {
+    "website": "https://www.suncountry.com",
+    "phone": "",
+    "instagram": "suncountryair",
+    "twitter": "suncountryair"
+  },
+  "BA": {
+    "website": "https://www.britishairways.com",
+    "phone": "",
+    "instagram": "british_airways",
+    "twitter": "british_airways"
+  },
+  "LH": {
+    "website": "https://www.lufthansa.com",
+    "phone": "",
+    "instagram": "lufthansa",
+    "twitter": "lufthansa"
+  },
+  "AF": {
+    "website": "https://www.airfrance.com",
+    "phone": "",
+    "instagram": "airfrance",
+    "twitter": "AirFrance"
+  },
+  "KL": {
+    "website": "https://www.klm.com",
+    "phone": "",
+    "instagram": "klm",
+    "twitter": ""
+  },
+  "IB": {
+    "website": "https://www.iberia.com",
+    "phone": "+34900111500",
+    "instagram": "iberia",
+    "twitter": "Iberia"
+  },
+  "LX": {
+    "website": "https://www.swiss.com",
+    "phone": "",
+    "instagram": "flyswiss",
+    "twitter": "FlySWISS"
+  },
+  "OS": {
+    "website": "https://www.austrian.com",
+    "phone": "",
+    "instagram": "austrianairlines",
+    "twitter": ""
+  },
+  "SN": {
+    "website": "https://www.brusselsairlines.com",
+    "phone": "",
+    "instagram": "flyingbrussels",
+    "twitter": ""
+  },
+  "SK": {
+    "website": "https://www.flysas.com",
+    "phone": "",
+    "instagram": "flysas",
+    "twitter": "SAS"
+  },
+  "AY": {
+    "website": "https://www.finnair.com",
+    "phone": "+358300871160",
+    "instagram": "feelfinnair",
+    "twitter": "Finnair"
+  },
+  "TP": {
+    "website": "https://www.flytap.com",
+    "phone": "",
+    "instagram": "tapairportugal",
+    "twitter": "tapairportugal"
+  },
+  "EI": {
+    "website": "https://www.aerlingus.com",
+    "phone": "",
+    "instagram": "aerlingus",
+    "twitter": "AerLingus"
+  },
+  "FR": {
+    "website": "https://www.ryanair.com",
+    "phone": "",
+    "instagram": "ryanair",
+    "twitter": "Ryanair"
+  },
+  "U2": {
+    "website": "https://www.easyjet.com",
+    "phone": "",
+    "instagram": "easyjet",
+    "twitter": "easyJet"
+  },
+  "W6": {
+    "website": "https://www.wizzair.com",
+    "phone": "",
+    "instagram": "wizzair",
+    "twitter": "wizzair"
+  },
+  "VY": {
+    "website": "https://www.vueling.com",
+    "phone": "",
+    "instagram": "vueling",
+    "twitter": "vueling"
+  },
+  "TK": {
+    "website": "https://www.turkishairlines.com",
+    "phone": "",
+    "instagram": "turkishairlines",
+    "twitter": "TurkishAirlines"
+  },
+  "AZ": {
+    "website": "https://www.ita-airways.com",
+    "phone": "",
+    "instagram": "itaairways",
+    "twitter": "ITAAirways"
+  },
+  "LO": {
+    "website": "https://www.lot.com",
+    "phone": "+48225777755",
+    "instagram": "flylot",
+    "twitter": "lotplairlines"
+  },
+  "DY": {
+    "website": "https://www.norwegian.com",
+    "phone": "",
+    "instagram": "flynorwegian",
+    "twitter": "Fly_Norwegian"
+  },
+  "EW": {
+    "website": "https://www.eurowings.com",
+    "phone": "",
+    "instagram": "eurowings",
+    "twitter": ""
+  },
+  "VS": {
+    "website": "https://www.virginatlantic.com",
+    "phone": "+443448747747",
+    "instagram": "virginatlantic",
+    "twitter": "virginatlantic"
+  },
+  "A3": {
+    "website": "https://www.aegeanair.com",
+    "phone": "+302106261000",
+    "instagram": "aegeanairlines",
+    "twitter": "aegeanairlines"
+  },
+  "FI": {
+    "website": "https://www.icelandair.com",
+    "phone": "",
+    "instagram": "icelandair",
+    "twitter": "Icelandair"
+  }
+}

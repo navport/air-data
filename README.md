@@ -32,6 +32,21 @@ To contribute data, use the type file (airports, airlines, timezones) in the `sr
 }
 ```
 
+#### Airline details
+
+To attach extra info (website, phone, socials, etc.) to an airline, add an entry to `src/append/airlines-details.json`, keyed by the airline's IATA code. Only airlines listed there get the extra fields, and the entry is added to that airline in `airlines.json` as a `details` object:
+
+```json
+{
+  "DL": {
+    "website": "https://www.delta.com",
+    "phone": "+18006211234",
+    "instagram": "delta",
+    "twitter": "delta"
+  }
+}
+```
+
 After, run the following command to append the data to the existing JSON file:
 
 ```bash
