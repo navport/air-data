@@ -10435,6 +10435,11 @@
     "tz": "America/Denver"
   },
   {
+    "iata": "GFA",
+    "icao": "KGFA",
+    "tz": "America/Denver"
+  },
+  {
     "iata": "GFD",
     "icao": "KGFD",
     "tz": "America/Indiana/Indianapolis"
@@ -12573,11 +12578,6 @@
     "iata": "HRO",
     "icao": "KHRO",
     "tz": "America/Chicago"
-  },
-  {
-    "iata": "HRS",
-    "icao": "FAHR",
-    "tz": "Africa/Johannesburg"
   },
   {
     "iata": "HRY",
@@ -16120,11 +16120,6 @@
     "tz": "Asia/Makassar"
   },
   {
-    "iata": "KOF",
-    "icao": "FAKP",
-    "tz": "Africa/Johannesburg"
-  },
-  {
     "iata": "KOH",
     "icao": "YKLA",
     "tz": "Australia/Brisbane"
@@ -19418,6 +19413,11 @@
     "iata": "MEY",
     "icao": "VNMG",
     "tz": "Asia/Kathmandu"
+  },
+  {
+    "iata": "MEZ",
+    "icao": "FAMH",
+    "tz": "Africa/Johannesburg"
   },
   {
     "iata": "MFA",

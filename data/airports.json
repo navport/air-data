@@ -2768,8 +2768,8 @@
     "iata": "JAV",
     "icao": "BGJN",
     "airport": "Ilulissat Airport",
-    "latitude": "69.243202",
-    "longitude": "-51.057098"
+    "latitude": "69.245641",
+    "longitude": "-51.052243"
   },
   {
     "country_code": "GL",
@@ -11624,8 +11624,8 @@
     "iata": "DUK",
     "icao": "FADK",
     "airport": "Mubatuba Airport",
-    "latitude": "-28.36840057373047",
-    "longitude": "32.24810028076172"
+    "latitude": "-28.366957",
+    "longitude": "32.246701"
   },
   {
     "country_code": "ZA",
@@ -11651,8 +11651,8 @@
     "iata": "EMG",
     "icao": "FAEM",
     "airport": "Empangeni Airport",
-    "latitude": "-28.719999313354492",
-    "longitude": "31.889999389648438"
+    "latitude": "-28.719517",
+    "longitude": "31.892727"
   },
   {
     "country_code": "ZA",
@@ -11710,15 +11710,6 @@
   },
   {
     "country_code": "ZA",
-    "region_name": "Harrismith",
-    "iata": "HRS",
-    "icao": "FAHR",
-    "airport": "Harrismith Airport",
-    "latitude": "-28.2351",
-    "longitude": "29.106199"
-  },
-  {
-    "country_code": "ZA",
     "region_name": "Hoedspruit",
     "iata": "HDS",
     "icao": "FAHS",
@@ -11752,15 +11743,6 @@
     "airport": "Kruger Mpumalanga International Airport",
     "latitude": "-25.383327",
     "longitude": "31.105325"
-  },
-  {
-    "country_code": "ZA",
-    "region_name": "Komatipoort",
-    "iata": "KOF",
-    "icao": "FAKP",
-    "airport": "Komatipoort Airport",
-    "latitude": "-25.44029998779297",
-    "longitude": "31.93000030517578"
   },
   {
     "country_code": "ZA",
@@ -11813,8 +11795,8 @@
     "iata": "DUR",
     "icao": "FALE",
     "airport": "King Shaka International Airport",
-    "latitude": "-29.6144444444",
-    "longitude": "31.1197222222"
+    "latitude": "-29.613381",
+    "longitude": "31.117942"
   },
   {
     "country_code": "ZA",
@@ -11830,9 +11812,9 @@
     "region_name": "Langebaanweg",
     "iata": "SDB",
     "icao": "FALW",
-    "airport": "Langebaanweg Airport",
-    "latitude": "-32.968898773199996",
-    "longitude": "18.1602993011"
+    "airport": "Langebaanweg Air Force Base",
+    "latitude": "-32.968899",
+    "longitude": "18.160299"
   },
   {
     "country_code": "ZA",
@@ -11863,12 +11845,21 @@
   },
   {
     "country_code": "ZA",
+    "region_name": "Musina",
+    "iata": "MEZ",
+    "icao": "FAMH",
+    "airport": "Musina(Messina) Airport",
+    "latitude": "-22.355672",
+    "longitude": "29.9862"
+  },
+  {
+    "country_code": "ZA",
     "region_name": "Mafeking",
     "iata": "MBD",
     "icao": "FAMM",
-    "airport": "Mmabatho International Airport",
-    "latitude": "-25.798400878900004",
-    "longitude": "25.548000335699996"
+    "airport": "George Dick Montshioa Airport",
+    "latitude": "-25.798401",
+    "longitude": "25.548"
   },
   {
     "country_code": "ZA",
@@ -11939,8 +11930,8 @@
     "iata": "OUH",
     "icao": "FAOH",
     "airport": "Oudtshoorn Airport",
-    "latitude": "-33.6069984436",
-    "longitude": "22.188999176"
+    "latitude": "-33.606998",
+    "longitude": "22.188999"
   },
   {
     "country_code": "ZA",
@@ -12146,8 +12137,8 @@
     "iata": "LTA",
     "icao": "FATZ",
     "airport": "Tzaneen Airport",
-    "latitude": "-23.8244",
-    "longitude": "30.3293"
+    "latitude": "-23.822341",
+    "longitude": "30.327244"
   },
   {
     "country_code": "ZA",
@@ -18973,6 +18964,15 @@
   },
   {
     "country_code": "IN",
+    "region_name": "Datia",
+    "iata": "DPP",
+    "icao": "VIDT",
+    "airport": "Datia Airport",
+    "latitude": "25.649972",
+    "longitude": "78.503167"
+  },
+  {
+    "country_code": "IN",
     "region_name": "Jagdalpur",
     "iata": "JGB",
     "icao": "VEJR",
@@ -23992,6 +23992,15 @@
     "airport": "South Big Horn County Airport",
     "latitude": "44.51679993",
     "longitude": "-108.0830002"
+  },
+  {
+    "country_code": "US",
+    "region_name": "Great Falls",
+    "iata": "GFA",
+    "icao": "KGFA",
+    "airport": "Malmstrom Air Force Base",
+    "latitude": "47.5047",
+    "longitude": "-111.186996"
   },
   {
     "country_code": "US",
@@ -46390,7 +46399,7 @@
     "region_name": "Cheongju",
     "iata": "CJJ",
     "icao": "RKTU",
-    "airport": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+    "airport": "Cheongju International Airport",
     "latitude": "36.71556",
     "longitude": "127.500289"
   },
