@@ -202,5 +202,17 @@
     "phone": "+3545050100",
     "instagram": "icelandair",
     "twitter": "Icelandair"
+  },
+  "LS": {
+    "website": "https://jet2.com",
+    "phone": "+442030598336",
+    "instagram": "jet2pics",
+    "twitter": "jet2tweets"
+  },
+  "EK": {
+    "website": "https://emirates.com",
+    "phone": "+971600555555",
+    "instagram": "emirates",
+    "twitter": "emirates"
   }
 }

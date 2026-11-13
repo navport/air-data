@@ -2367,7 +2367,13 @@
     "iata_code": "EK",
     "icao_code": "UAE",
     "name": "Emirates",
-    "alias": ""
+    "alias": "",
+    "details": {
+      "website": "https://emirates.com",
+      "phone": "+971600555555",
+      "instagram": "emirates",
+      "twitter": "emirates"
+    }
   },
   {
     "iata_code": "EL",
@@ -3861,7 +3867,13 @@
     "iata_code": "LS",
     "icao_code": "EXS",
     "name": "Jet2.com",
-    "alias": ""
+    "alias": "",
+    "details": {
+      "website": "https://jet2.com",
+      "phone": "+442030598336",
+      "instagram": "jet2pics",
+      "twitter": "jet2tweets"
+    }
   },
   {
     "iata_code": "LT",
